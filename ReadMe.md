@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! 👋 I'm Rajkumar , a passionate Developer from India.<br>🌱 I’m currently learning Machine Learning <br>🖥️ I have a strong affinity for Machine Learning, and I love to explore the Tech around me.<br>📧 With a background in Information Technology, I'm always eager to learn and stay up-to-date with the latest trends in the tech world 🌏. <br><br>
+Hello! 👋 I'm Rajkumar , a passionate Developer from India.<br>🌱 I’m currently learning Machine Learning <br>🖥️ I have a strong affinity for Machine Learning, and I love to explore the Tech around me.<br>📧 With a background in I.T, I'm always eager to learn and stay up-to-date with the latest trends in the tech 🌏. <br><br>
 
 
 ## 🌐 Socials:
